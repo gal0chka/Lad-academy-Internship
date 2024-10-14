@@ -1,0 +1,37 @@
+Направление,Уровень,Город,Вакансии
+Data Analyst,Junior,Москва,17
+Data Analyst,Junior,Санкт-Петербург,5
+Data Analyst,Junior,Нижний Новгород,1
+Data Analyst,Junior,Казань,0
+Data Analyst,Middle,Москва,167
+Data Analyst,Middle,Санкт-Петербург,36
+Data Analyst,Middle,Нижний Новгород,5
+Data Analyst,Middle,Казань,5
+Data Analyst,Senior,Москва,44
+Data Analyst,Senior,Санкт-Петербург,8
+Data Analyst,Senior,Нижний Новгород,0
+Data Analyst,Senior,Казань,0
+Data Scientist,Junior,Москва,19
+Data Scientist,Junior,Санкт-Петербург,2
+Data Scientist,Junior,Нижний Новгород,1
+Data Scientist,Junior,Казань,1
+Data Scientist,Middle,Москва,205
+Data Scientist,Middle,Санкт-Петербург,29
+Data Scientist,Middle,Нижний Новгород,7
+Data Scientist,Middle,Казань,4
+Data Scientist,Senior,Москва,70
+Data Scientist,Senior,Санкт-Петербург,5
+Data Scientist,Senior,Нижний Новгород,2
+Data Scientist,Senior,Казань,0
+Data Engineer,Junior,Москва,22
+Data Engineer,Junior,Санкт-Петербург,3
+Data Engineer,Junior,Нижний Новгород,3
+Data Engineer,Junior,Казань,2
+Data Engineer,Middle,Москва,245
+Data Engineer,Middle,Санкт-Петербург,53
+Data Engineer,Middle,Нижний Новгород,5
+Data Engineer,Middle,Казань,12
+Data Engineer,Senior,Москва,59
+Data Engineer,Senior,Санкт-Петербург,13
+Data Engineer,Senior,Нижний Новгород,2
+Data Engineer,Senior,Казань,0
